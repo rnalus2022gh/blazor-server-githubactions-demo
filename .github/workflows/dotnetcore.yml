@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 env:
   PUBLISH_PATH: '.'
-  AZURE_WEB_APP: 'blazorsvr-ga-demo'
+  AZURE_WEB_APP: 'blazorsvr-ga-rome'
     
 jobs:
   build:
